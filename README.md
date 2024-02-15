@@ -1,2 +1,2 @@
 # HelloWorld
-一个简单的示例。win
+一个简单的示例。ubuntu win
